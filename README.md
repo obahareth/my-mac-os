@@ -144,6 +144,12 @@ Here is how it looks:
 
 - Great cross-platform Git client that integrates well with GitHub, BitBucket, GitLab, and supports GitFlow.
 
+#### [Kaleidoscope](https://www.kaleidoscopeapp.com/) - Powerful diff tool
+
+- Really great, precise, and beautiful diffing.
+- Great at viewing/merging conflicts.
+- Can do directory and image diffs as well.
+
 ### Social
 
 #### [Textual](https://www.codeux.com/textual/) - IRC Client
