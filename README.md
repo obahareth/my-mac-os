@@ -43,7 +43,7 @@ I'm slowly transitioning to cross-platform software because I want to be able to
 
 #### [Alfred](https://www.alfredapp.com) - Launcher
 
-- Alfred is both my launcher, clipboard history manager, and entry point to lots of [awesome plugins](https://wiki.omar.engineer/alfred/plugins).
+- Alfred is both my launcher, clipboard history manager, and entry point to lots of [awesome workflows](https://wiki.omar.engineer/alfred/workflows).
 
   <img src="https://i.imgur.com/zzF5Bkk.png" width="700" alt="img">
 
