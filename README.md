@@ -202,9 +202,6 @@ Here is how it looks:
 - Google Play Music will most likely be merged with this, so it might be best to get used to it.
 - I use it on the rare occasion that I don't find something on Google Play Music.
 
-#### [Evernote](https://evernote.com) - Large writing, scans, web clips, and annotations
-
-
 ### Images
 
 #### [Google Photos](https://photos.google.com/) - Cloud storage for photos
@@ -212,7 +209,6 @@ Here is how it looks:
 - Easiest way to backup my photos and access them from multiple places.
 - Machine learning, auto detects images.
 - 😖 Kind of scary.
-
 
 ### Utilities
 
