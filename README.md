@@ -150,6 +150,11 @@ Here is how it looks:
 - Great at viewing/merging conflicts.
 - Can do directory and image diffs as well.
 
+#### [Gitify](https://github.com/manosim/gitify) - GitHub issue & pull request notifiations
+
+- Neat little app that sits in the menu bar and lights up when I have GitHub notifications.
+- Can view all notifications and mark them as read.
+
 ### Social
 
 #### [Textual](https://www.codeux.com/textual/) - IRC Client
