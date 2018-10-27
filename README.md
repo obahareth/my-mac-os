@@ -87,14 +87,14 @@ Here's a small example of me using it to quickly run/evaluate Ruby code.
 
 - Allows me to fuzzy search through all the currently active windows that I have.
 
-![](https://i.imgur.com/hwlVhMK.png)
+![](https://i.imgur.com/vO9sDbN.png)
 
 - Makes jumping to the right window I need effortless. I often may have many VS Code instances with different projects running and this lets me switch to the project I need in seconds.
 
 #### [Bartender](https://www.macbartender.com/) - Menu bar organizer
 
 - Allows you to customize and hide the contents of your menu bar and improve the aesthetics of your OS. Here is how mine looks:
-  <img src="https://i.imgur.com/hOzJiDK.png" width="500" alt="img">
+  <img src="https://i.imgur.com/GKjbmZJ.png" width="500" alt="img">
 
 #### [Magnet](http://magnet.crowdcafe.com/) - Organize your workspace
 
