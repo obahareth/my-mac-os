@@ -245,7 +245,7 @@ Here is how it looks:
 
 #### [Google Chrome](https://www.google.com/chrome/)
 
-- Main main web browser because it easily syncs my extensions across machines.
+- My main web browser because it easily syncs my extensions across machines.
 - I use [these extensions](https://wiki.omar.engineer/google-chrome/extensions) and [this theme](https://wiki.omar.engineer/google-chrome/theme).
 
 #### [Safari](https://www.apple.com/lae/safari/)
