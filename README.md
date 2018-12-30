@@ -2,7 +2,7 @@
 
 List of hardware, applications, and tools that make my macOS experience amazing, inspired by https://github.com/nikitavoloboev/my-mac-os (with shameless copy pasting (I hope that's ok 🙏🏼) where I couldn't find better wording).
 
-![](https://i.imgur.com/smsXnUG.jpg)
+![](https://imgur.com/8YLE56e.png)
 
 ##### Contents
 
@@ -116,11 +116,11 @@ Here's a small example of me using it to quickly run/evaluate Ruby code.
 #### [Visual Studio Code](https://github.com/Microsoft/vscode) - Code editor
 
 - My favorite editor that I use to write code in. I use [many extensions](https://wiki.omar.engineer/vscode/extensions) for it.
-- I use the [City Lights](http://citylights.xyz/) theme (for some reason, the only theme that doesn't hurt my eyes lately with the [Fira Code](https://github.com/tonsky/FiraCode) font.
+- I use the [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code) theme, [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) and the [Fira Code](https://github.com/tonsky/FiraCode) font.
 
 Here is how it looks:
 
-![](https://i.imgur.com/QccPnnq.png)
+![](https://imgur.com/7yUjpaJ.png)
 
 #### [Neovim](https://neovim.io/) - Powerful text editor
 
@@ -132,8 +132,9 @@ Here is how it looks:
 
 - I use Fish as my shell together with [Fisher](https://github.com/jorgebucaran/fisher) to install [Fish plugins I use](https://wiki.omar.engineer/fish/plugins).
 - You can find my dotfiles [here](https://github.com/obahareth/dotfiles).
+- I use the [Nord theme](https://github.com/arcticicestudio/nord-hyper).
 
-![](https://i.imgur.com/e3qhgp1.png)
+![](https://imgur.com/AbjcLCd.png)
 
 #### [Dash](https://kapeli.com/dash) - API Documentation Browser
 
@@ -288,7 +289,7 @@ Here is how it looks:
 
 ## Desktop Screenshot
 
-![](https://i.imgur.com/smsXnUG.jpg)
+![](https://imgur.com/8YLE56e.png)
 
 > Using [screenfetch](https://github.com/KittyKatt/screenFetch)
 
