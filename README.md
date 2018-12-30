@@ -130,7 +130,7 @@ Here is how it looks:
 
 #### [Hyper](https://hyper.is/) - Terminal Emulator
 
-- Use Zsh as my shell together with [Prezto](https://github.com/sorin-ionescu/prezto) to install [Zsh plugins I use](https://wiki.omar.engineer/zsh/plugins).
+- I use Fish as my shell together with [Fisher](https://github.com/jorgebucaran/fisher) to install [Fish plugins I use](https://wiki.omar.engineer/fish/plugins).
 - You can find my dotfiles [here](https://github.com/obahareth/dotfiles).
 
 ![](https://i.imgur.com/e3qhgp1.png)
