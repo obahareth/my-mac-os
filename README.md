@@ -256,7 +256,8 @@ Here is how it looks:
 
 ## Command Line Apps
 
-- [asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more.
+- [autojump](https://github.com/wting/autojump) - A cd command that learns, easily navigate directories from the command line.
+- [asdf](https://github.com/asdf-vm/asdf) - One version manager for all my programming languages.
   - [elixir](https://github.com/asdf-vm/asdf-elixir)
   - [golang](https://github.com/kennyp/asdf-golang)
   - [java](https://github.com/skotchpine/asdf-java)
