@@ -132,7 +132,7 @@ Here is how it looks:
 
 - I use Fish as my shell together with [Fisher](https://github.com/jorgebucaran/fisher) to install [Fish plugins I use](https://wiki.omar.engineer/fish/plugins).
 - You can find my dotfiles [here](https://github.com/obahareth/dotfiles).
-- I use the [Nord theme](https://github.com/arcticicestudio/nord-hyper).
+- I use the [Pure prompt](https://github.com/rafaelrinaldi/pure) and the [Nord theme](https://github.com/arcticicestudio/nord-hyper).
 
 ![](https://imgur.com/AbjcLCd.png)
 
