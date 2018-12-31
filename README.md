@@ -49,7 +49,9 @@ I'm slowly transitioning to cross-platform software because I want to be able to
 
 - It has a great [community](http://www.alfredforum.com/) and [amazing workflows](https://github.com/learn-anything/alfred-workflows#readme) that you can use.
 
-Here's a small example of me using it to quickly run/evaluate Ruby code.
+Here's a small example of me using it to quickly run/evaluate Ruby code:
+
+![](https://imgur.com/eCdrvs2.png)
 
 
 #### [Todoist](https://todoist.com/) - Simple and quick task manager
