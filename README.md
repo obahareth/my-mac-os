@@ -175,11 +175,11 @@ Here is how it looks:
   - Slack (sometimes).
 
 
-#### [Spark](https://sparkmailapp.com) - Email client
+#### [Mailspring](https://getmailspring.com) - Email client
 
-- Love how it smartly categorizes emails by categories.
+- Open source.
+- Great dark theme.
 - I approach all of my email tasks in GTD style. Keeping my email Inbox close to 0 at all times.
-- I love being able to easily take batch actions on emails.
 
 ### Writing
 
