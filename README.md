@@ -172,7 +172,16 @@ Here is how it looks:
   - WhatsApp.
   - Messenger.
   - Discord.
-  - Slack (sometimes).
+
+#### [Slack](https://slack.com) - Work chat
+
+- Chatting for work.
+- Collaborating with people on some open source projects and great communities.
+- I use the [Nord theme for the sidebar](https://github.com/arcticicestudio/nord-slack) and also apply a [Nord stylesheet](https://github.com/tborychowski/slack-nord-theme) so everything looks Nord-ish.
+
+It looks a bit like this (the screenshot is from the slack-nord-theme repo):
+
+![](https://github.com/tborychowski/slack-nord-theme/raw/master/screen.png)
 
 
 #### [Mailspring](https://getmailspring.com) - Email client
