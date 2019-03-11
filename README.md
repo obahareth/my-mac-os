@@ -118,11 +118,11 @@ Here's a small example of me using it to quickly run/evaluate Ruby code:
 #### [Visual Studio Code](https://github.com/Microsoft/vscode) - Code editor
 
 - My favorite editor that I use to write code in. I use [many extensions](https://wiki.omar.engineer/vscode/extensions) for it.
-- I use the [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code) theme, [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) and the [Fira Code](https://github.com/tonsky/FiraCode) font.
+- I use the [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code) theme, [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) and the [Pragmata Pro](https://www.fsd.it/shop/fonts/pragmatapro/) font.
 
 Here is how it looks:
 
-![](https://imgur.com/7yUjpaJ.png)
+![](https://imgur.com/4NQb6wu.png)
 
 #### [Neovim](https://neovim.io/) - Powerful text editor
 
