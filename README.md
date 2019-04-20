@@ -208,7 +208,7 @@ It looks a bit like this (the screenshot is from the slack-nord-theme repo):
 - Cloud syncing.
 - Charts.
 
-#### [Evernote](https://evernote.com) - Large writing, scans, web clips, and annotations
+#### [Notion](https://notion.so) - Large writing, scans, web clips, and annotations
 
 - I do my huge writing here.
 - If I want to access a document from anywhere, I usually store it here.
