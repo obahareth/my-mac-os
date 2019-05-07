@@ -2,7 +2,7 @@
 
 List of hardware, applications, and tools that make my macOS experience amazing, inspired by https://github.com/nikitavoloboev/my-mac-os (with shameless copy pasting (I hope that's ok 🙏🏼) where I couldn't find better wording).
 
-![](https://imgur.com/8YLE56e.png)
+![](https://imgur.com/K5uLtya.png)
 
 ##### Contents
 
@@ -300,7 +300,7 @@ It looks a bit like this (the screenshot is from the slack-nord-theme repo):
 
 ## Desktop Screenshot
 
-![](https://imgur.com/8YLE56e.png)
+![](https://imgur.com/K5uLtya.png)
 
 > Using [screenfetch](https://github.com/KittyKatt/screenFetch)
 
