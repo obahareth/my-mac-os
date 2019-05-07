@@ -28,10 +28,10 @@ Computer: 15" Late 2016 Macbook Pro with Touch bar.
 
 Trackpad: [Apple Magic Trackpad 2](https://www.amazon.com/Apple-Magic-Trackpad-2-MJ2R2LL/dp/B016QO5YWC/ref=sr_1_3?ie=UTF8&qid=1538413611&sr=8-3&keywords=apple+magic+trackpad).
 
-Monitor: [BenQ GW2765HT 27-Inch](https://www.amazon.com/BenQ-GW2765HT-27-Inch-2560x1440-Monitor/dp/B00KYCSRSG/ref=sr_1_5?ie=UTF8&qid=1538413375&sr=8-5&keywords=benq+27+monitor).
+Monitor(s): [2x Dell U2417H](https://www.amazon.com/Dell-U2417H-UltraSharp-LED-Backlit-Monitor/dp/B01D11JUAU).
 
 Keyboards:
-- [ErgoDox EZ Shine](https://ergodox-ez.com/products/ergodox-ez-shine?variant=40172754947) for work and programming.
+- [Matias Ergo Pro](https://matias.ca/ergopro/pc/) for work and programming.
 - [Microsoft Universal Foldable Keyboard](https://www.amazon.com/Microsoft-Universal-Foldable-Keyboard-Android/dp/B00UBGU4PY) for typing on the go.
 - [Filco Majestouch Ninja 2](https://www.amazon.com/Filco-Majestouch-2-Keyboard-FKBN104M-EFB2/dp/B004Z0XR2O/ref=sr_1_1?s=electronics&ie=UTF8&qid=1538413535&sr=1-1&keywords=filco+majestouch+ninja+2) for gaming.
 
