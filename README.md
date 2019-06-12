@@ -1,7 +1,5 @@
 # my-mac-os
 
-**No longer maintained because I switched to Linux. See [my-linux](https://github.com/obahareth/my-linux) instead.**
-
 List of hardware, applications, and tools that make my macOS experience amazing, inspired by https://github.com/nikitavoloboev/my-mac-os (with shameless copy pasting (I hope that's ok 🙏🏼) where I couldn't find better wording).
 
 ![](https://imgur.com/K5uLtya.png)
