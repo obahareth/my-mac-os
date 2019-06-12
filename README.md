@@ -249,9 +249,11 @@ It looks a bit like this (the screenshot is from the slack-nord-theme repo):
 - Window previews (thumbnails) when hovering over applications on the dock.
 - Calendar previews when hovering over the Calendar.
 
-#### [Paw](https://paw.cloud/) - Great API tool
+#### [Insomnia](https://insomnia.rest/) - Great API tool
 
 - Full-featured HTTP client that lets you test and describe the APIs you build or consume.
+- Open source.
+- Cross-platform.
 
 ### Browsers
 
