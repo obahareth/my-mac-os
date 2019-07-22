@@ -2,7 +2,10 @@
 
 List of hardware, applications, and tools that make my macOS experience amazing, inspired by https://github.com/nikitavoloboev/my-mac-os (with shameless copy pasting (I hope that's ok 🙏🏼) where I couldn't find better wording).
 
-![](https://imgur.com/K5uLtya.png)
+![](https://imgur.com/uSP1cYN.png)
+> Using [screenfetch](https://github.com/KittyKatt/screenFetch)
+
+**Wallpaper: [Icy land beside Jökulsárlón Lake](https://unsplash.com/photos/FRYtAMzphLs)**
 
 ##### Contents
 
@@ -300,12 +303,6 @@ It looks a bit like this (the screenshot is from the slack-nord-theme repo):
 
 - [GPG Suite](https://gpgtools.org/) - Encrypt, decrypt, sign and verify files or messages.
   - I use this also for signing my commits.
-
-## Desktop Screenshot
-
-![](https://imgur.com/K5uLtya.png)
-
-> Using [screenfetch](https://github.com/KittyKatt/screenFetch)
 
 ## Similar Setups
 
