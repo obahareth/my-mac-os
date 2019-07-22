@@ -239,10 +239,11 @@ It looks a bit like this (the screenshot is from the slack-nord-theme repo):
 
 - A powerful set of tools for Mac OS X that are ideal for measuring, aligning and inspecting on-screen graphics and layouts.
 
-#### [iStat Menus](https://bjango.com/mac/istatmenus/) - Mac system monitoring from menu bar
+#### [Dato](https://apps.apple.com/ca/app/dato/id1470584107) - Better clock/calendar widget for menubar
 
-- Great system monitoring tools which I use to quickly see my CPU/network/memory usage.
+- More configurable than Apple's default widget.
 - Has a great calendar popup that shows when you click date/time in the menubar. This is something I was really used to from Windows/Linux that I'm glad to have back again.
+- Can show calendar events
 
 #### [HyperDock](https://bahoom.com/hyperdock) - Window Previews for Dock
 
