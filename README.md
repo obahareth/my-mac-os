@@ -258,6 +258,7 @@ It looks a bit like this (the screenshot is from the slack-nord-theme repo):
 - Full-featured HTTP client that lets you test and describe the APIs you build or consume.
 - Open source.
 - Cross-platform.
+- Themeable, I use the [Nord theme](https://github.com/xasx/insomnia-plugin-nord-theme) here as well.
 
 ### Browsers
 
