@@ -34,7 +34,7 @@ Trackpad: [Apple Magic Trackpad 2](https://www.amazon.com/Apple-Magic-Trackpad-2
 Monitor(s): [2x Dell U2417H](https://www.amazon.com/Dell-U2417H-UltraSharp-LED-Backlit-Monitor/dp/B01D11JUAU).
 
 Keyboards:
-- [Matias Ergo Pro](https://matias.ca/ergopro/pc/) for work and programming.
+- [White Fox](https://kono.store/products/whitefox-mechanical-keyboard) for work and programming.
 - [Microsoft Universal Foldable Keyboard](https://www.amazon.com/Microsoft-Universal-Foldable-Keyboard-Android/dp/B00UBGU4PY) for typing on the go.
 - [Filco Majestouch Ninja 2](https://www.amazon.com/Filco-Majestouch-2-Keyboard-FKBN104M-EFB2/dp/B004Z0XR2O/ref=sr_1_1?s=electronics&ie=UTF8&qid=1538413535&sr=1-1&keywords=filco+majestouch+ninja+2) for gaming.
 
@@ -63,11 +63,6 @@ Here's a small example of me using it to quickly run/evaluate Ruby code:
 - It also has global quick add with a hotkey. Together with lists, priorities, powerful search and a lot more.
 
   <img src="https://i.imgur.com/QicIQmD.png" width="400" alt="img">
-
-
-#### [Trello](https://trello.com) - Project management tool
-
-- Simple project management tool with tons of great integrations.
 
 #### [Pipefy](https://pipefy.com) - Automation on boards and forms
 
@@ -156,11 +151,6 @@ Here is how it looks:
 - Great at viewing/merging conflicts.
 - Can do directory and image diffs as well.
 
-#### [Gitify](https://github.com/manosim/gitify) - GitHub issue & pull request notifications
-
-- Neat little app that sits in the menu bar and lights up when I have GitHub notifications.
-- Can view all notifications and mark them as read.
-
 ### Social
 
 #### [Textual](https://www.codeux.com/textual/) - IRC Client
@@ -187,11 +177,13 @@ It looks a bit like this (the screenshot is from the slack-nord-theme repo):
 ![](https://github.com/tborychowski/slack-nord-theme/raw/master/screen.png)
 
 
-#### [Mailspring](https://getmailspring.com) - Email client
+#### [Spark](https://sparkmailapp.com/) - Email client
 
-- Open source.
+- Fast.
 - Great dark theme.
 - I approach all of my email tasks in GTD style. Keeping my email Inbox close to 0 at all times.
+- Smart grouping of new emails.
+- Quickly take batch actions.
 
 ### Writing
 
@@ -204,17 +196,14 @@ It looks a bit like this (the screenshot is from the slack-nord-theme repo):
 
 - A great minimal distraction-free markdown editor, I use it when I want absolute focus.
 
-#### [Quiver](http://happenapps.com/) - The Programmer's Notebook
-
-- Powerful cell-based editor that operates based on "cells" (e.g. markdown cell, code cell, LaTeX cell, etc.) for mixing and matching different kinds of formats.
-- Plain JSON data format.
-- Cloud syncing.
-- Charts.
-
 #### [Notion](https://notion.so) - Large writing, scans, web clips, and annotations
+
+It's very hard to describe exactly what Notion does, but it's basically a workspace for everything and I'm trying to move everything to it.
 
 - I do my huge writing here.
 - If I want to access a document from anywhere, I usually store it here.
+- Personal project management.
+- Managing lists of things I want to buy, sell, and games I want to play.
 
 ### Music
 
