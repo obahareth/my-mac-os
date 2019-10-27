@@ -195,9 +195,11 @@ It looks a bit like this (the screenshot is from the slack-nord-theme repo):
 #### [Typora](https://typora.io) - Smart WYSIWYG distraction-free markdown editor
 
 - Smart WYSIWYG editor, no need for an editing and preview views like most markdown editors, it's just one view.
+- Distraction-free markdown editor, I use it when I want absolute focus.
 - Cross-platform.
 - Beautiful [themes](http://theme.typora.io/), and even [one that supports RTL](http://theme.typora.io/theme/Middle-East/).
-- A great minimal distraction-free markdown editor, I use it when I want absolute focus.
+- I use it to edit [my wiki](https://wiki.omar.engineer).
+
 
 #### [Notion](https://notion.so) - Large writing, scans, and web clips
 
