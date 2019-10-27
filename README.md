@@ -192,11 +192,14 @@ It looks a bit like this (the screenshot is from the slack-nord-theme repo):
 - Day One is my digital life journal.
 - If you don't journal, I suggest you to start, it is a very powerful mind cleanser and acts as a wonderful history record of your life.
 
-#### [Byword](https://bywordapp.com/) - Distraction-free Markdown Editor
+#### [Typora](https://typora.io) - Smart WYSIWYG distraction-free markdown editor
 
+- Smart WYSIWYG editor, no need for an editing and preview views like most markdown editors, it's just one view.
+- Cross-platform.
+- Beautiful [themes](http://theme.typora.io/), and even [one that supports RTL](http://theme.typora.io/theme/Middle-East/).
 - A great minimal distraction-free markdown editor, I use it when I want absolute focus.
 
-#### [Notion](https://notion.so) - Large writing, scans, web clips, and annotations
+#### [Notion](https://notion.so) - Large writing, scans, and web clips
 
 It's very hard to describe exactly what Notion does, but it's basically a workspace for everything and I'm trying to move everything to it.
 
@@ -204,6 +207,7 @@ It's very hard to describe exactly what Notion does, but it's basically a worksp
 - If I want to access a document from anywhere, I usually store it here.
 - Personal project management.
 - Managing lists of things I want to buy, sell, and games I want to play.
+- I also use it to keep [a list of public Notion pages](https://www.notion.so/obahareth/Public-04ad2eb582a448b1ae834249d5ada9b9) with ideas I'm working on and more.
 
 ### Music
 
