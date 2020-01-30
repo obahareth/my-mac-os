@@ -243,11 +243,6 @@ It's very hard to describe exactly what Notion does, but it's basically a worksp
 - Has a great calendar popup that shows when you click date/time in the menubar. This is something I was really used to from Windows/Linux that I'm glad to have back again.
 - Can show calendar events
 
-#### [HyperDock](https://bahoom.com/hyperdock) - Window Previews for Dock
-
-- Window previews (thumbnails) when hovering over applications on the dock.
-- Calendar previews when hovering over the Calendar.
-
 #### [Insomnia](https://insomnia.rest/) - Great API tool
 
 - Full-featured HTTP client that lets you test and describe the APIs you build or consume.
