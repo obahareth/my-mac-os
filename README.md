@@ -111,6 +111,15 @@ Here's a small example of me using it to quickly run/evaluate Ruby code:
 - Takes a bit of time to set it up correctly and is quite an insightful experience first turning it on and having it notify every couple of seconds that some app is trying to send data to some server and whether you want to allow that.
 - This is essential if you want to take control of what information gets sent out from your computer and what connections have right to connect to your data.
 
+#### [Taskade](https://taskade.com/downloads) - Realtime organization and collaboration tool for getting work done
+
+- A simple and elegant productivity tool for personal and team projects.
+- Manage tasks, write product specs, and video chat in one unified workspace.
+- Designed for remote and distributed teams. Crossplatform. Free to use. 
+
+![](https://i.imgur.com/6c6rhpA.jpg)
+
+
 ### Code
 
 #### [Visual Studio Code](https://github.com/Microsoft/vscode) - Code editor
