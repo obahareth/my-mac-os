@@ -46,7 +46,7 @@ I'm slowly transitioning to cross-platform software because I want to be able to
 
 #### [Alfred](https://www.alfredapp.com) - Launcher
 
-- Alfred is both my launcher, clipboard history manager, and entry point to lots of [awesome workflows](https://wiki.omar.engineer/alfred/workflows).
+- Alfred is both my launcher, clipboard history manager, and entry point to lots of [awesome workflows](https://wiki.omar.engineer/apps-and-tools/alfred/workflows).
 
   <img src="https://i.imgur.com/zzF5Bkk.png" width="700" alt="img">
 
@@ -115,7 +115,7 @@ Here's a small example of me using it to quickly run/evaluate Ruby code:
 
 #### [Visual Studio Code](https://github.com/Microsoft/vscode) - Code editor
 
-- My favorite editor that I use to write code in. I use [many extensions](https://wiki.omar.engineer/vscode/extensions) for it.
+- My favorite editor that I use to write code in. I use [many extensions](https://wiki.omar.engineer/apps-and-tools/visual-studio-code/extensions) for it.
 - I use the [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code) theme, [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) and the [Pragmata Pro](https://www.fsd.it/shop/fonts/pragmatapro/) font.
 
 Here is how it looks:
@@ -130,7 +130,7 @@ Here is how it looks:
 
 #### [Hyper](https://hyper.is/) - Terminal Emulator
 
-- I use Fish as my shell together with [Fisher](https://github.com/jorgebucaran/fisher) to install [Fish plugins I use](https://wiki.omar.engineer/fish/plugins).
+- I use Fish as my shell together with [Fisher](https://github.com/jorgebucaran/fisher) to install [Fish plugins I use](https://wiki.omar.engineer/apps-and-tools/fish/plugins).
 - You can find my dotfiles [here](https://github.com/obahareth/dotfiles).
 - I use the [Starship prompt](https://github.com/starship/starship) and the [Nord theme](https://github.com/arcticicestudio/nord-hyper).
 
@@ -262,7 +262,7 @@ It's very hard to describe exactly what Notion does, but it's basically a worksp
 #### [Google Chrome](https://www.google.com/chrome/)
 
 - My main web browser because it easily syncs my extensions across machines.
-- I use [these extensions](https://wiki.omar.engineer/google-chrome/extensions) and [this theme](https://wiki.omar.engineer/google-chrome/theme).
+- I use [these extensions](https://wiki.omar.engineer/apps-and-tools/google-chrome/extensions) and [this theme](https://wiki.omar.engineer/apps-and-tools/google-chrome/theme).
 
 #### [Safari](https://www.apple.com/lae/safari/)
 
