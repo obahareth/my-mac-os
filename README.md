@@ -68,10 +68,6 @@ Here's a small example of me using it to quickly run/evaluate Ruby code:
 
   <img src="https://i.imgur.com/9Xeqsvy.png" width="400" alt="img">
 
-#### [Pipefy](https://pipefy.com) - Automation on boards and forms
-
-- When I need something like Trello but with a lot more automation/power (e.g. having a public form, sending emails when things move to a certain column, triggering other actions, etc.)
-
 #### [1Password](https://1password.com) - Password manager
 
 - Generate all of my passwords with it and keep everything in a secured and encrypted vault kept secure by a master password and two factor authentication.
@@ -104,10 +100,6 @@ Here's a small example of me using it to quickly run/evaluate Ruby code:
 
 - Lets me use keyboard shortcuts (or more rarely, drag-drop to edges) to tile windows on my screen.
 - Keyboard shortcuts to move windows across monitors.
-
-#### [Yoink](https://eternalstorms.at/yoink/mac/) - Simplify and Improve Drag and Drop on your Mac
-
-- A small/quick utility I use to drop files from multiple locations/apps into to take an action on them later.
 
 #### [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) - Control incoming/outgoing network traffic
 
@@ -161,15 +153,6 @@ Here is how it looks:
 
 - The best macOS IRC client I've found.
 
-
-#### [Rambox](https://github.com/ramboxapp/community-edition) - Open Source Multi-messaging App
-
-- A single app I use for chatting with people on:
-  - Telegram.
-  - WhatsApp.
-  - Messenger.
-  - Discord.
-
 #### [Slack](https://slack.com) - Work chat
 
 - Chatting for work.
@@ -217,15 +200,9 @@ It's very hard to describe exactly what Notion does, but it's basically a worksp
 
 ### Music
 
-#### [Google Play Music](https://play.google.com/music) - Music Streaming
-
-- My goto music streaming solution.
-- Easiest for me to setup from where I live (Saudi Arabia).
-
 #### [YouTube Music](https://music.youtube.com/) - Music Streaming 2nd solution
 
-- Google Play Music will most likely be merged with this, so it might be best to get used to it.
-- I use it on the rare occasion that I don't find something on Google Play Music.
+- The only music app that has the most kind of songs I like (oldschool videogame music, videogame OSTs, anime OSTs, etc.)
 
 ### Images
 
