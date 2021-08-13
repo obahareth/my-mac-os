@@ -276,6 +276,7 @@ It's very hard to describe exactly what Notion does, but it's basically a worksp
 - [now](https://github.com/zeit/now-cli) - Real time global deployments served over HTTP/2.
 - [yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management.
 - [hub](https://github.com/github/hub) - GitHub wrapper.
+- [fx](https://github.com/antonmedv/fx) - A great toolkit for interactively exploring, parsing, searching, exporting, and filtering JSON
 - [xsv](https://github.com/BurntSushi/xsv) - Fast CSV command line toolkit written in Rust.
 
 ## Preference Panes
