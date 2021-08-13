@@ -57,12 +57,16 @@ Here's a small example of me using it to quickly run/evaluate Ruby code:
 ![](https://imgur.com/eCdrvs2.png)
 
 
-#### [Todoist](https://todoist.com/) - Simple and quick task manager
+#### [TickTick](https://ticktick.com/) - All my Tasks in One Place
 
-- Todoist helps me plan out everything I want to do either for the short term or long term (I'm not sure if I follow GTD).
-- It also has global quick add with a hotkey. Together with lists, priorities, powerful search and a lot more.
+- TickTick helps me plan out everything I want to do either for the short term or long term (I'm not sure if I follow GTD)
+- Tasks, habits (e.g. drink x liters of water), calendar, and reminders all in one app
+- The one place I go to to answer the question "What do I have to do today?"
+- Has apps on all platforms I use, and a great web app
+- Really powerful calendar integration (works just like a standard calendar app) with quick links to join meetings
+- It also has global quick add with a hotkey. Together with lists, priorities, powerful search and a lot more
 
-  <img src="https://i.imgur.com/QicIQmD.png" width="400" alt="img">
+  <img src="https://i.imgur.com/9Xeqsvy.png" width="400" alt="img">
 
 #### [Pipefy](https://pipefy.com) - Automation on boards and forms
 
