@@ -31,10 +31,10 @@ Computer: 15" Late 2016 Macbook Pro with Touch bar.
 
 Trackpad: [Apple Magic Trackpad 2](https://www.amazon.com/Apple-Magic-Trackpad-2-MJ2R2LL/dp/B016QO5YWC/ref=sr_1_3?ie=UTF8&qid=1538413611&sr=8-3&keywords=apple+magic+trackpad).
 
-Monitor(s): [2x Dell U2417H](https://www.amazon.com/Dell-U2417H-UltraSharp-LED-Backlit-Monitor/dp/B01D11JUAU).
+Monitor(s): [LG 34UC98-W](https://www.amazon.com/LG-34UC98-W-34-Inch-UltraWide-Thunderbolt/dp/B019O78DPS).
 
 Keyboards:
-- [White Fox](https://kono.store/products/whitefox-mechanical-keyboard) for work and programming.
+- [Keychron K3](https://www.keychron.com/products/keychron-k3-wireless-mechanical-keyboard) for work and programming.
 - [Microsoft Universal Foldable Keyboard](https://www.amazon.com/Microsoft-Universal-Foldable-Keyboard-Android/dp/B00UBGU4PY) for typing on the go.
 - [Filco Majestouch Ninja 2](https://www.amazon.com/Filco-Majestouch-2-Keyboard-FKBN104M-EFB2/dp/B004Z0XR2O/ref=sr_1_1?s=electronics&ie=UTF8&qid=1538413535&sr=1-1&keywords=filco+majestouch+ninja+2) for gaming.
 
