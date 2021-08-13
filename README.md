@@ -124,13 +124,13 @@ Here is how it looks:
 - Go-to commandline text editor.
 - I use [vim-plug](https://github.com/junegunn/vim-plug) to manage plugins.
 
-#### [Hyper](https://hyper.is/) - Terminal Emulator
+#### [iTerm 2](https://iterm2.com/) - Terminal Emulator
 
 - I use Fish as my shell together with [Fisher](https://github.com/jorgebucaran/fisher) to install [Fish plugins I use](https://wiki.omar.engineer/apps-and-tools/fish/plugins).
 - You can find my dotfiles [here](https://github.com/obahareth/dotfiles).
-- I use the [Starship prompt](https://github.com/starship/starship) and the [Nord theme](https://github.com/arcticicestudio/nord-hyper).
+- I use the [Starship prompt](https://github.com/starship/starship) and the [Nord theme](https://github.com/arcticicestudio/nord-iterm2).
 
-![](https://imgur.com/AbjcLCd.png)
+![](https://i.imgur.com/nKiGYD1.png)
 
 #### [Dash](https://kapeli.com/dash) - API Documentation Browser
 
