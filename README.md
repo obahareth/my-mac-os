@@ -27,7 +27,7 @@ List of hardware, applications, and tools that make my macOS experience amazing,
 
 ## Hardware
 
-Computer: 13" Late 2020 Macbook Pro with M1 Chip.
+Computer: 14" 2021 Macbook Pro with M1 Pro Chip.
 
 Trackpad: [Apple Magic Trackpad 2](https://www.amazon.com/Apple-Magic-Trackpad-2-MJ2R2LL/dp/B016QO5YWC/ref=sr_1_3?ie=UTF8&qid=1538413611&sr=8-3&keywords=apple+magic+trackpad).
 
@@ -44,18 +44,20 @@ I'm slowly transitioning to cross-platform software because I want to be able to
 
 ### Productivity
 
-#### [Alfred](https://www.alfredapp.com) - Launcher
+#### [Raycast](https://www.raycast.com) - Launcher
 
-- Alfred is both my launcher, clipboard history manager, and entry point to lots of [awesome workflows](https://wiki.omar.engineer/apps-and-tools/alfred/workflows).
+- Raycast is both my launcher and entry point to lots of awesome extensions.
+- It has a great community and [amazing extensions](https://www.raycast.com/store) that you can use.
+- It's extremely easy to develop extensions for.
 
-  <img src="https://i.imgur.com/zzF5Bkk.png" width="700" alt="img">
+Here's a small example of me using it to quickly [run/evaluate Ruby](https://www.raycast.com/obahareth/ruby-evaluate) code:
 
-- It has a great [community](http://www.alfredforum.com/) and [amazing workflows](https://github.com/learn-anything/alfred-workflows#readme) that you can use.
+![](https://i.imgur.com/L2KIaO7.gif)
 
-Here's a small example of me using it to quickly run/evaluate Ruby code:
+#### [Paste](https://pasteapp.io) - Clipboard History
 
-![](https://imgur.com/eCdrvs2.png)
-
+- Paste is a clipboard manager that can sync your clipboard history with your iOS devices.
+- Part of Setapp.
 
 #### [TickTick](https://ticktick.com/) - All my Tasks in One Place
 
@@ -81,15 +83,6 @@ Here's a small example of me using it to quickly run/evaluate Ruby code:
 
 - Super fast PDF viewer.
 - Best experience for editing PDFs or filling PDF forms.
-
-
-#### [Contexts](https://contexts.co) - Window switcher
-
-- Allows me to fuzzy search through all the currently active windows that I have.
-
-![](https://i.imgur.com/vO9sDbN.png)
-
-- Makes jumping to the right window I need effortless. I often may have many VS Code instances with different projects running and this lets me switch to the project I need in seconds.
 
 #### [Bartender](https://www.macbartender.com/) - Menu bar organizer
 
@@ -137,9 +130,9 @@ Here is how it looks:
 - Allows you to download any docset that you might want to use, search for any method, class or anything that you need very quickly, comes with the amazing [Alfred workflow](https://www.alfredapp.com/blog/productivity/dash-quicker-api-documentation-search/) to simplify the process of searching for the right things.
 
 
-#### [GitKraken](https://www.git-tower.com) - Git client
+#### [Tower](https://www.git-tower.com) - Git client
 
-- Great cross-platform Git client that integrates well with GitHub, BitBucket, GitLab, and supports GitFlow.
+- Great Git client that integrates well with GitHub, BitBucket, GitLab, and supports GitFlow.
 
 #### [Kaleidoscope](https://www.kaleidoscopeapp.com/) - Powerful diff tool
 
@@ -214,6 +207,12 @@ It's very hard to describe exactly what Notion does, but it's basically a worksp
 
 ### Utilities
 
+#### [Setapp](https://setapp.com) - One subscription that unlocks many paid apps for macOS and iOS
+
+- Has many great paid apps in one place, cheaper than individually buying/subscribing to all those apps.
+
+If you'd like, you can use [my referral link](https://go.setapp.com/invite/cdjvafat) and we'll both get a free month.
+
 #### [xScope](https://xscopeapp.com/) - Measure. Inspect. Test.
 
 - A powerful set of tools for Mac OS X that are ideal for measuring, aligning and inspecting on-screen graphics and layouts.
@@ -227,6 +226,7 @@ It's very hard to describe exactly what Notion does, but it's basically a worksp
 #### [TablePlus](https://tableplus.com/) - Modern, Native Tool for Database Management
 
 - Available for many platforms (Mac, Linux, Windows, and iOS so far).
+- Part of Setapp.
 - Supports many databases (MySQL, PostgreSQL, MongoDB, SQLite, Redis, Cassandra, and more).
 - Intelligent autocomplete and great filtering utilities.
 - Frequently updated and well-maintained.
