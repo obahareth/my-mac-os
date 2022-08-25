@@ -134,6 +134,8 @@ Here is how it looks:
 
 - Great Git client that integrates well with GitHub, BitBucket, GitLab, and supports GitFlow.
 
+If you'd like, you can use my [referral link](https://www.git-tower.com/p/refer-a-friend/R-TN7HH96L3E) and you'll get a 10% discount.
+
 #### [Kaleidoscope](https://www.kaleidoscopeapp.com/) - Powerful diff tool
 
 - Really great, precise, and beautiful diffing.
