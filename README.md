@@ -49,6 +49,7 @@ I'm slowly transitioning to cross-platform software because I want to be able to
 - Raycast is both my launcher and entry point to lots of [awesome extensions](https://wiki.omar.engineer/apps-and-tools/raycast/extensions).
 - It has a great community and [amazing extension store](https://www.raycast.com/store) that you can use.
 - It's extremely easy to develop extensions for.
+- I also made some [extensions](https://www.raycast.com/obahareth) and [scripts](https://github.com/obahareth/raycast-scripts) for it.
 
 Here's a small example of me using it to quickly [run/evaluate Ruby](https://www.raycast.com/obahareth/ruby-evaluate) code:
 
