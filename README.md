@@ -34,9 +34,9 @@ Trackpad: [Apple Magic Trackpad 2](https://www.amazon.com/Apple-Magic-Trackpad-2
 Monitor(s): [LG 34UC98-W](https://www.amazon.com/LG-34UC98-W-34-Inch-UltraWide-Thunderbolt/dp/B019O78DPS).
 
 Keyboards:
-- [Keychron K3](https://www.keychron.com/products/keychron-k3-wireless-mechanical-keyboard) for work and programming.
+- [NuPhy Halo75](https://nuphy.com/collections/keyboards/products/halo75) with Nightbreeze switches for work and programming.
 - [Microsoft Universal Foldable Keyboard](https://www.amazon.com/Microsoft-Universal-Foldable-Keyboard-Android/dp/B00UBGU4PY) for typing on the go.
-- [Filco Majestouch Ninja 2](https://www.amazon.com/Filco-Majestouch-2-Keyboard-FKBN104M-EFB2/dp/B004Z0XR2O/ref=sr_1_1?s=electronics&ie=UTF8&qid=1538413535&sr=1-1&keywords=filco+majestouch+ninja+2) for gaming.
+- [NyPhy Field75](https://nuphy.com/collections/keyboards/products/field75) with Fleeting Gold switches for gaming.
 
 ## Applications
 
