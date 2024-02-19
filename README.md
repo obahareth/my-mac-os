@@ -223,16 +223,10 @@ If you'd like, you can use [my referral link](https://go.setapp.com/invite/cdjva
 
 - A powerful set of tools for Mac OS X that are ideal for measuring, aligning and inspecting on-screen graphics and layouts.
 
-#### [Dato](https://apps.apple.com/ca/app/dato/id1470584107) - Better clock/calendar widget for menubar
-
-- More configurable than Apple's default widget.
-- Has a great calendar popup that shows when you click date/time in the menubar. This is something I was really used to from Windows/Linux that I'm glad to have back again.
-- Can show calendar events
-
 #### [TablePlus](https://tableplus.com/) - Modern, Native Tool for Database Management
 
 - Available for many platforms (Mac, Linux, Windows, and iOS so far).
-- Part of Setapp.
+- Available on Setapp.
 - Supports many databases (MySQL, PostgreSQL, MongoDB, SQLite, Redis, Cassandra, and more).
 - Intelligent autocomplete and great filtering utilities.
 - Frequently updated and well-maintained.
