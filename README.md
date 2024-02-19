@@ -58,7 +58,7 @@ Here's a small example of me using it to quickly [run/evaluate Ruby](https://www
 #### [Paste](https://pasteapp.io) - Clipboard History
 
 - Paste is a clipboard manager that can sync your clipboard history with your iOS devices.
-- Part of [Setapp](#setapp).
+- Available on Setapp (see below)
 
 #### [TickTick](https://ticktick.com/) - All my Tasks in One Place
 
@@ -89,6 +89,7 @@ Here's a small example of me using it to quickly [run/evaluate Ruby](https://www
 
 - Allows you to customize and hide the contents of your menu bar and improve the aesthetics of your OS. Here is how mine looks:
   <img src="https://i.imgur.com/GKjbmZJ.png" width="500" alt="img">
+- Available on Setapp (see below)
 
 #### [Magnet](http://magnet.crowdcafe.com/) - Organize your workspace
 
@@ -129,6 +130,7 @@ Here is how it looks:
 #### [Dash](https://kapeli.com/dash) - API Documentation Browser
 
 - Allows you to download any docset that you might want to use, search for any method, class or anything that you need very quickly, comes with the amazing [Alfred workflow](https://www.alfredapp.com/blog/productivity/dash-quicker-api-documentation-search/) to simplify the process of searching for the right things.
+- Available on Setapp (see below)
 
 
 #### [Tower](https://www.git-tower.com) - Git client
