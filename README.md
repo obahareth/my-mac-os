@@ -27,7 +27,7 @@ List of hardware, applications, and tools that make my macOS experience amazing,
 
 ## Hardware
 
-Computer: 14" 2021 Macbook Pro with M1 Pro Chip.
+Computer: 14" 2023 Macbook Pro with M3 Max Chip.
 
 Trackpad: [Apple Magic Trackpad 2](https://www.amazon.com/Apple-Magic-Trackpad-2-MJ2R2LL/dp/B016QO5YWC/ref=sr_1_3?ie=UTF8&qid=1538413611&sr=8-3&keywords=apple+magic+trackpad).
 
