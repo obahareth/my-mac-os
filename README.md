@@ -148,9 +148,12 @@ If you'd like, you can use my [referral link](https://www.git-tower.com/p/refer-
 
 ### Social
 
-#### [Textual](https://www.codeux.com/textual/) - IRC Client
+#### [Beeper](https://refer.beeper.com/473DFG) - Unified Messaging Client
 
-- The best macOS IRC client I've found.
+- The best multi-messaging chat app out there
+- Uses Matrix protocol to actually integrate with messaging apps, unlike many apps that just embed web views
+- Great UX
+- Fast
 
 #### [Slack](https://slack.com) - Work chat
 
