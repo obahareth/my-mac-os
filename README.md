@@ -108,6 +108,7 @@ Here's a small example of me using it to quickly [run/evaluate Ruby](https://www
 
 - My favorite editor that I use to write code in. I use [many extensions](https://wiki.omar.engineer/apps-and-tools/visual-studio-code/extensions) for it.
 - I use the [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code) theme, [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) and the [Pragmata Pro](https://www.fsd.it/shop/fonts/pragmatapro/) font.
+- I use Copilot extensively
 
 Here is how it looks:
 
@@ -263,7 +264,7 @@ If you'd like, you can use [my referral link](https://go.setapp.com/invite/cdjva
   - [ruby](https://github.com/asdf-vm/asdf-ruby)
   - [rust](https://github.com/code-lever/asdf-rust)
 - [fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder.
-- [colorls](https://github.com/athityakumar/colorls) - Beautify `ls` command with color and font-awesome icons.
+- [eza](https://github.com/eza-community/eza) - Beautify `ls` command with color and font-awesome icons.
 - [bat](https://github.com/sharkdp/bat) - Cat clone with wings.
 - [git](https://github.com/git/git) - Version control.
 - [curl](https://curl.haxx.se/docs/manpage.html) - Transfer data from or to a server.
