@@ -58,7 +58,7 @@ Here's a small example of me using it to quickly [run/evaluate Ruby](https://www
 #### [Paste](https://pasteapp.io) - Clipboard History
 
 - Paste is a clipboard manager that can sync your clipboard history with your iOS devices.
-- Part of Setapp.
+- Part of [Setapp](#setapp).
 
 #### [TickTick](https://ticktick.com/) - All my Tasks in One Place
 
@@ -210,7 +210,8 @@ It's very hard to describe exactly what Notion does, but it's basically a worksp
 
 ### Utilities
 
-#### [Setapp](https://setapp.com) - One subscription that unlocks many paid apps for macOS and iOS
+#### [Setapp](https://setapp.sjv.io/c/5258220/343321/5114) - One subscription that unlocks many paid apps for macOS and iOS
+(This is an affiliate link)
 
 - Has many great paid apps in one place, cheaper than individually buying/subscribing to all those apps.
 
