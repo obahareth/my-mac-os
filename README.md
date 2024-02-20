@@ -221,8 +221,6 @@ It's very hard to describe exactly what Notion does, but it's basically a worksp
 
 - Has many great paid apps in one place, cheaper than individually buying/subscribing to all those apps.
 
-If you'd like, you can use [my referral link](https://go.setapp.com/invite/cdjvafat) and we'll both get a free month.
-
 #### [xScope](https://xscopeapp.com/) - Measure. Inspect. Test.
 
 - A powerful set of tools for Mac OS X that are ideal for measuring, aligning and inspecting on-screen graphics and layouts.
