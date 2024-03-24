@@ -44,6 +44,14 @@ I'm slowly transitioning to cross-platform software because I want to be able to
 
 ### Productivity
 
+#### [Perplexity](https://perplexity.ai/pro?referral_code=DA0H47IP) - Search Engine and Chatbot  
+(referral link, will give you a discount)
+- Intelligent and fast search engine, very unique in the field of AI search
+- Returns more accurate results than other AI-based search engines
+- Great UI
+- Choose between popular AI models with subscription (GPT-4, Claude, etc.)
+- Choose between image generation models (DALL-E, Stable Diffusion, etc.)
+
 #### [Raycast](https://www.raycast.com) - Launcher
 
 - Raycast is both my launcher and entry point to lots of [awesome extensions](https://wiki.omar.engineer/apps-and-tools/raycast/extensions).
