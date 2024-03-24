@@ -51,6 +51,7 @@ I'm slowly transitioning to cross-platform software because I want to be able to
 - Great UI
 - Choose between popular AI models with subscription (GPT-4, Claude, etc.)
 - Choose between image generation models (DALL-E, Stable Diffusion, etc.)
+- Create a collection, where each collection can have its own prompt, and different chats inside it share that prompt
 
 #### [Raycast](https://www.raycast.com) - Launcher
 
