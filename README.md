@@ -2,10 +2,10 @@
 
 List of hardware, applications, and tools that make my macOS experience amazing, inspired by https://github.com/nikitavoloboev/my-mac-os (with shameless copy pasting (I hope that's ok 🙏🏼) where I couldn't find better wording).
 
-![](https://imgur.com/uSP1cYN.png)
+![](https://i.imgur.com/o24XKFK.jpeg)
 > Using [screenfetch](https://github.com/KittyKatt/screenFetch)
 
-**Wallpaper: [Icy land beside Jökulsárlón Lake](https://unsplash.com/photos/FRYtAMzphLs)**
+**Wallpaper: [World Tree with Catpuccin Mocha Filter](https://i.imgur.com/p9b5Hs2.jpeg)**
 
 ##### Contents
 
@@ -16,7 +16,6 @@ List of hardware, applications, and tools that make my macOS experience amazing,
   - [Social](#social)
   - [Writing](#writing)
   - [Music](#music)
-  - [Images](#images)
   - [Utilities](#utilities)
   - [Browsers](#browsers)
 - [Command Line Apps](#command-line-apps)
@@ -44,14 +43,11 @@ I'm slowly transitioning to cross-platform software because I want to be able to
 
 ### Productivity
 
-#### [Perplexity](https://perplexity.ai/pro?referral_code=DA0H47IP) - Search Engine and Chatbot  
-(referral link, will give you a discount)
-- Intelligent and fast search engine, very unique in the field of AI search
-- Returns more accurate results than other AI-based search engines
-- Great UI
-- Choose between popular AI models with subscription (GPT-4, Claude, etc.)
-- Choose between image generation models (DALL-E, Stable Diffusion, etc.)
-- Create a collection, where each collection can have its own prompt, and different chats inside it share that prompt
+#### [ChatGPT](https://chatgpt.com) - Chatbot and Search
+- Great general assistant that can integrate with a lot of tools (with recent MCP support)
+- Can handle and generate files
+- Custom GPTs and projects
+- Memory of all chats
 
 #### [Raycast](https://www.raycast.com) - Launcher
 
@@ -69,25 +65,17 @@ Here's a small example of me using it to quickly [run/evaluate Ruby](https://www
 - Paste is a clipboard manager that can sync your clipboard history with your iOS devices.
 - Available on Setapp (see below)
 
-#### [TickTick](https://ticktick.com/) - All my Tasks in One Place
+#### [Any.do](https://any.do) - All my Tasks in One Place
 
-- TickTick helps me plan out everything I want to do either for the short term or long term (I'm not sure if I follow GTD)
-- Tasks, habits (e.g. drink x liters of water), calendar, and reminders all in one app
+- Any.do helps me plan out everything I want to do either for the short term or long term (I'm not sure if I follow GTD)
 - The one place I go to to answer the question "What do I have to do today?"
-- Has apps on all platforms I use, and a great web app
-- Really powerful calendar integration (works just like a standard calendar app) with quick links to join meetings
-- It also has global quick add with a hotkey. Together with lists, priorities, powerful search and a lot more
-
-  <img src="https://i.imgur.com/9Xeqsvy.png" width="400" alt="img">
+- Has apps on all platforms I use, and great ChatGPT integration
+- Calendar integration
 
 #### [1Password](https://1password.com) - Password manager
 
 - Generate all of my passwords with it and keep everything in a secured and encrypted vault kept secure by a master password and two factor authentication.
 - No longer need to remember passwords and I now have a unique password for every website that I am signed up on whilst [activating two factor authentication](https://support.1password.com/one-time-passwords/) wherever possible.
-
-#### [MindNode](https://mindnode.com) - Interactive Mind Mapping
-
-- I write A LOT, too much actually, MindNode helps me write short summaries of my thoughts that I "connect the dots" (or lines) between.
 
 #### [PDF Expert](https://pdfexpert.com/) - PDF reader/editor
 
@@ -113,15 +101,26 @@ Here's a small example of me using it to quickly [run/evaluate Ruby](https://www
 
 ### Code
 
-#### [Visual Studio Code](https://github.com/Microsoft/vscode) - Code editor
+#### [Cursor](https://cursor.com) - Code editor
 
 - My favorite editor that I use to write code in. I use [many extensions](https://wiki.omar.engineer/apps-and-tools/visual-studio-code/extensions) for it.
-- I use the [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code) theme, [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) and the [Pragmata Pro](https://www.fsd.it/shop/fonts/pragmatapro/) font.
+- I use the [Catppuccin](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc) and the [Pragmata Pro](https://www.fsd.it/shop/fonts/pragmatapro/) font.
+- I use the [Catppuccin Icons](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons)
+- My editor automatically switches between Catppuccin Latte and Catppuccin Dark based on time of day
 - I use Copilot extensively
 
-Here is how it looks:
+Light theme
+![](https://i.imgur.com/DVHQsDP.jpeg)
 
-![](https://imgur.com/4NQb6wu.png)
+Dark theme
+![](https://i.imgur.com/rjh8GMN.jpeg)
+
+#### [Claude Code](https://www.anthropic.com/claude-code) - AI-driven Development
+
+- My preferred way of writing AI-generated/AI-assisted code
+- I've made a couple of agents for different usecases (researching, testing, building UI, database architecture, etc.)
+- I heavily utilize CLAUDE.md in subdirectories to have it explain the way I'd like to do things per folder
+- I use Playwright MCP to let the AI be able to interact with a web browser
 
 #### [Neovim](https://neovim.io/) - Powerful text editor
 
@@ -129,25 +128,15 @@ Here is how it looks:
 - Go-to commandline text editor.
 - I use [vim-plug](https://github.com/junegunn/vim-plug) to manage plugins.
 
-#### [iTerm 2](https://iterm2.com/) - Terminal Emulator
+#### [Warp](https://www.warp.dev/terminal) - Terminal Emulator
 
 - I use Fish as my shell together with [Fisher](https://github.com/jorgebucaran/fisher) to install [Fish plugins I use](https://wiki.omar.engineer/apps-and-tools/fish/plugins).
 - You can find my dotfiles [here](https://github.com/obahareth/dotfiles).
-- I use the [Starship prompt](https://github.com/starship/starship) and the [Nord theme](https://github.com/arcticicestudio/nord-iterm2).
+- I use the [Starship prompt](https://github.com/starship/starship) and the [Catppuccin theme](https://github.com/catppuccin/warp) (Latte for light and Mocha for dark).
 
-![](https://i.imgur.com/nKiGYD1.png)
-
-#### [Dash](https://kapeli.com/dash) - API Documentation Browser
-
-- Allows you to download any docset that you might want to use, search for any method, class or anything that you need very quickly, comes with the amazing [Alfred workflow](https://www.alfredapp.com/blog/productivity/dash-quicker-api-documentation-search/) to simplify the process of searching for the right things.
-- Available on Setapp (see below)
-
-
-#### [Tower](https://www.git-tower.com) - Git client
+#### [GitKraken](https://www.gitkraken.com/) - Git client
 
 - Great Git client that integrates well with GitHub, BitBucket, GitLab, and supports GitFlow.
-
-If you'd like, you can use my [referral link](https://www.git-tower.com/p/refer-a-friend/R-TN7HH96L3E) and you'll get a 10% discount.
 
 #### [Kaleidoscope](https://www.kaleidoscopeapp.com/) - Powerful diff tool
 
@@ -157,23 +146,10 @@ If you'd like, you can use my [referral link](https://www.git-tower.com/p/refer-
 
 ### Social
 
-#### [Beeper](https://refer.beeper.com/473DFG) - Unified Messaging Client
-
-- The best multi-messaging chat app out there
-- Uses Matrix protocol to actually integrate with messaging apps, unlike many apps that just embed web views
-- Great UX
-- Fast
-
 #### [Slack](https://slack.com) - Work chat
 
 - Chatting for work.
 - Collaborating with people on some open source projects and great communities.
-- I use the [Nord theme for the sidebar](https://github.com/arcticicestudio/nord-slack) and also apply a [Nord stylesheet](https://github.com/tborychowski/slack-nord-theme) so everything looks Nord-ish.
-
-It looks a bit like this (the screenshot is from the slack-nord-theme repo):
-
-![](https://github.com/tborychowski/slack-nord-theme/raw/master/screen.png)
-
 
 #### [Spark](https://sparkmailapp.com/) - Email client
 
@@ -183,20 +159,15 @@ It looks a bit like this (the screenshot is from the slack-nord-theme repo):
 - Smart grouping of new emails.
 - Quickly take batch actions.
 
+#### [Telegram](https://telegram.org/) - Chat
+- Main chat app
+
 ### Writing
 
 #### [Day One](http://dayoneapp.com/) - Digital journal
 
 - Day One is my digital life journal.
 - If you don't journal, I suggest you to start, it is a very powerful mind cleanser and acts as a wonderful history record of your life.
-
-#### [Typora](https://typora.io) - Smart WYSIWYG distraction-free markdown editor
-
-- Smart WYSIWYG editor, no need for an editing and preview views like most markdown editors, it's just one view.
-- Distraction-free markdown editor, I use it when I want absolute focus.
-- Cross-platform.
-- Beautiful [themes](http://theme.typora.io/), and even [one that supports RTL](http://theme.typora.io/theme/Middle-East/).
-- I use it to edit [my wiki](https://wiki.omar.engineer).
 
 
 #### [Notion](https://notion.so) - Large writing, scans, and web clips
@@ -215,24 +186,12 @@ It's very hard to describe exactly what Notion does, but it's basically a worksp
 
 - The only music app that has the most kind of songs I like (oldschool videogame music, videogame OSTs, anime OSTs, etc.)
 
-### Images
-
-#### [Google Photos](https://photos.google.com/) - Cloud storage for photos
-
-- Easiest way to backup my photos and access them from multiple places.
-- Machine learning, auto detects images.
-- 😖 Kind of scary.
-
 ### Utilities
 
 #### [Setapp](https://setapp.sjv.io/c/5258220/343321/5114) - One subscription that unlocks many paid apps for macOS and iOS
 (This is an affiliate link)
 
 - Has many great paid apps in one place, cheaper than individually buying/subscribing to all those apps.
-
-#### [xScope](https://xscopeapp.com/) - Measure. Inspect. Test.
-
-- A powerful set of tools for Mac OS X that are ideal for measuring, aligning and inspecting on-screen graphics and layouts.
 
 #### [TablePlus](https://tableplus.com/) - Modern, Native Tool for Database Management
 
@@ -242,16 +201,15 @@ It's very hard to describe exactly what Notion does, but it's basically a worksp
 - Intelligent autocomplete and great filtering utilities.
 - Frequently updated and well-maintained.
 
-#### [Insomnia](https://insomnia.rest/) - Great API tool
+#### [Yaak](https://yaak.app/) - Great API tool
 
 - Full-featured HTTP client that lets you test and describe the APIs you build or consume.
 - Open source.
 - Cross-platform.
-- Themeable, I use the [Nord theme](https://github.com/xasx/insomnia-plugin-nord-theme) here as well.
 
 ### Browsers
 
-#### [Google Chrome](https://www.google.com/chrome/)
+#### [Brave](https://brave.com/)
 
 - My main web browser because it easily syncs my extensions across machines.
 - I use [these extensions](https://wiki.omar.engineer/apps-and-tools/google-chrome/extensions) and [this theme](https://wiki.omar.engineer/apps-and-tools/google-chrome/theme).
