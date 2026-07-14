@@ -11,6 +11,7 @@ List of hardware, applications, and tools that make my macOS experience amazing,
 
 - [Hardware](#hardware)
 - [Applications](#applications)
+  - [AI](#ai)
   - [Productivity](#productivity)
   - [Code](#code)
   - [Social](#social)
@@ -41,13 +42,20 @@ Keyboards:
 
 I'm slowly transitioning to cross-platform software because I want to be able to use the majority of my apps on any OS.
 
-### Productivity
+### AI
 
-#### [ChatGPT](https://chatgpt.com) - Chatbot and Search
-- Great general assistant that can integrate with a lot of tools (with recent MCP support)
-- Can handle and generate files
-- Custom GPTs and projects
-- Memory of all chats
+#### [ChatGPT and Codex](https://chatgpt.com) - Chatbot and Search
+- Great app and harness, one of the best
+- GPT 5.6 is amazing at taking a task and doing it end to end even if it takes days
+- Rate limits that make a lot more sense than other options
+- Amazing image generation and editing capabilities
+
+#### [Hermes](https://hermes-agent.nousresearch.com/)
+- Batteries included personal LLM harness
+- Self learning, which is amazing
+- Nice desktop app included, can be used to connect to remote Hermes as well
+
+### Productivity
 
 #### [Raycast](https://www.raycast.com) - Launcher
 
@@ -60,17 +68,24 @@ Here's a small example of me using it to quickly [run/evaluate Ruby](https://www
 
 ![](https://i.imgur.com/L2KIaO7.gif)
 
+#### [Tailscale](https://tailscale.com/)
+- Easy way to securely connect to remote devices
+- Simple and works great out of the box
+
+#### [Herdr](https://herdr.dev/)
+- Agent-tailored terminal multiplexer
+- Great integrations with popular harnesses
+- Super great for working with agents on a remote machine, especially when combined with [Moshi](https://getmoshi.app/)
+
 #### [Paste](https://pasteapp.io) - Clipboard History
 
 - Paste is a clipboard manager that can sync your clipboard history with your iOS devices.
 - Available on Setapp (see below)
 
-#### [Any.do](https://any.do) - All my Tasks in One Place
+#### [Todoist](https://todoist.com) - All my Tasks in One Place
 
-- Any.do helps me plan out everything I want to do either for the short term or long term (I'm not sure if I follow GTD)
 - The one place I go to to answer the question "What do I have to do today?"
-- Has apps on all platforms I use, and great ChatGPT integration
-- Calendar integration
+- Using it simply just for task management, had issues with calendar integration
 
 #### [1Password](https://1password.com) - Password manager
 
