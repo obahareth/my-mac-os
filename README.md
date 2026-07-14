@@ -55,6 +55,11 @@ I'm slowly transitioning to cross-platform software because I want to be able to
 - Self learning, which is amazing
 - Nice desktop app included, can be used to connect to remote Hermes as well
 
+##### Skills
+I've put out some public AI skills [here](https://github.com/obahareth/skills-public) that have been helping me out.
+
+https://github.com/obahareth/skills-public
+
 ### Productivity
 
 #### [Raycast](https://www.raycast.com) - Launcher
