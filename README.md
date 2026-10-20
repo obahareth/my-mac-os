@@ -82,11 +82,6 @@ Here's a small example of me using it to quickly [run/evaluate Ruby](https://www
 - Great integrations with popular harnesses
 - Super great for working with agents on a remote machine, especially when combined with [Moshi](https://getmoshi.app/)
 
-#### [Paste](https://pasteapp.io) - Clipboard History
-
-- Paste is a clipboard manager that can sync your clipboard history with your iOS devices.
-- Available on Setapp (see below)
-
 #### [Todoist](https://todoist.com) - All my Tasks in One Place
 
 - The one place I go to to answer the question "What do I have to do today?"
@@ -121,13 +116,12 @@ Here's a small example of me using it to quickly [run/evaluate Ruby](https://www
 
 ### Code
 
-#### [Cursor](https://cursor.com) - Code editor
+#### [Zed](https://zed.dev/) - Code editor
 
-- My favorite editor that I use to write code in. I use [many extensions](https://wiki.omar.engineer/apps-and-tools/visual-studio-code/extensions) for it.
-- I use the [Catppuccin](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc) and the [Pragmata Pro](https://www.fsd.it/shop/fonts/pragmatapro/) font.
-- I use the [Catppuccin Icons](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons)
+- My favorite editor that I use to write code in.
+- I use the [Catppuccin](https://github.com/catppuccin/zed) and the [0xProto font](https://github.com/0xType/0xProto) font.
+- I use the [Catppuccin Icons](https://zed.dev/extensions/catppuccin-icons)
 - My editor automatically switches between Catppuccin Latte and Catppuccin Dark based on time of day
-- I use Copilot extensively
 
 Light theme
 ![](https://i.imgur.com/DVHQsDP.jpeg)
@@ -148,11 +142,12 @@ Dark theme
 - Go-to commandline text editor.
 - I use [vim-plug](https://github.com/junegunn/vim-plug) to manage plugins.
 
-#### [Warp](https://www.warp.dev/terminal) - Terminal Emulator
+#### [Ghostty](https://ghostty.org/) - Terminal Emulator
 
 - I use Fish as my shell together with [Fisher](https://github.com/jorgebucaran/fisher) to install [Fish plugins I use](https://wiki.omar.engineer/apps-and-tools/fish/plugins).
 - You can find my dotfiles [here](https://github.com/obahareth/dotfiles).
 - I use the [Starship prompt](https://github.com/starship/starship) and the [Catppuccin theme](https://github.com/catppuccin/warp) (Latte for light and Mocha for dark).
+- I use the [Nerd font version of 0xProto](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/0xProto) to get cool icons and symbols in the terminal
 
 #### [GitKraken](https://www.gitkraken.com/) - Git client
 
